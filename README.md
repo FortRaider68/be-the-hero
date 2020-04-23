@@ -17,7 +17,7 @@
 </div>
 
 <h2><a name="Techs">Tecnologias</h2>
-<h5>Esse projeto foi desenvolvido com as seguintes tecnologias:</h5>
+<h5>Este projeto foi desenvolvido com as seguintes tecnologias:</h5>
 
 <ul>
 <li><a href="https://nodejs.org/en/">Node.js<a/></li>
@@ -31,4 +31,4 @@
 
 
 <h2><a name="License">Licença</h2>
-<p>Este projeto está sob a linceça MIT.Veja o Arquivo <a href="LICENSE.md">LICENSE</a> para mais detalhes</p>
+<p>Este projeto está sob a licença MIT.Veja o Arquivo <a href="LICENSE.md">LICENSE</a> para mais detalhes.</p>
