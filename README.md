@@ -31,4 +31,4 @@
 
 
 <h2><a name="License">Licença</h2>
-<p>Este projeto está sob a linceça MIT.Veja o Arquivo <a href="">LICENSE</a> para mais detalhes</p>
+<p>Este projeto está sob a linceça MIT.Veja o Arquivo <a href="LICENSE.md">LICENSE</a> para mais detalhes</p>
