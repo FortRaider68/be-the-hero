@@ -17,7 +17,7 @@
 </div>
 
 <h2><a name="Techs">Tecnologias</h2>
-<h5>Este projeto foi desenvolvido com as seguintes tecnologias:</h5>
+<p>Este projeto foi desenvolvido com as seguintes tecnologias:</p>
 
 <ul>
 <li><a href="https://nodejs.org/en/">Node.js<a/></li>
