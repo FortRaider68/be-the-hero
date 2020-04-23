@@ -27,7 +27,7 @@
 </ul>
 
 <h2><a name="Objective">Objetivo</h2>
-<p>Be The Hero é um projeto criado com intuito de conectar ONG's em busca de recursos ou ajuda.</p>
+<p>Be The Hero é um projeto criado com intuito de conectar ONG's em busca de ajuda ou recursos.</p>
 
 
 <h2><a name="License">Licença</h2>
